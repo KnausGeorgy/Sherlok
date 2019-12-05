@@ -136,6 +136,8 @@ public class MainActivity extends AppCompatActivity {
                                 return true;
                                 case R.id.menu2:
 
+
+                                //  Делаем изменение (git)
                                 // Создание оповещение о просмотре камер
                                 notificationShow("Пользователь пытался смотреть камеру собаки");
 
